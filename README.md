@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is XIAO Zhaoqi, a senior student studying in the souther university of science and technology (SUSTech) in Shenzhen, China. 
 <!--
 **gdjs2/gdjs2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
