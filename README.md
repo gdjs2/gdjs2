@@ -2,9 +2,9 @@
 
 This is gdjs2, Zhaoqi Xiao, 肖兆祺.
 
-I am currently a Ph.D. student👨‍🎓 in computer science in University of California, Riverside (UCR).
+I am currently a Ph.D. student👨‍🎓 in computer science at University of California, Riverside (UCR).
 
-Before joining UCR, I obtained my B.Eng.🎓 in computer science from Southern University of Science and Technology in July, 2022.
+Before joining UCR, I obtained B.Eng.🎓 in computer science from Southern University of Science and Technology in July, 2022.
 
 My research interests focus on computer security, especially dynamic/static program analysis based on software or hardware techniques. 
 
